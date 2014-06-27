@@ -1,0 +1,33 @@
+{
+  "name": "chai-members-deep",
+  "version": "0.0.1",
+  "description": "Extends chai.js with deep equality member checks, optionally also tracking the identity of nested objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fkling/chai-members-deep.git"
+  },
+  "keywords": [
+    "chai",
+    "testing",
+    "deep",
+    "equality"
+  ],
+  "author": "Felix Kling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fkling/chai-members-deep/issues"
+  },
+  "homepage": "https://github.com/fkling/chai-members-deep",
+  "dependencies": {
+    "deep-equal-ident": "^0.1.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "jest": "^0.1.37",
+    "jest-cli": "^0.1.16"
+  }
+}
