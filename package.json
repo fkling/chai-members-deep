@@ -1,6 +1,6 @@
 {
   "name": "chai-members-deep",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Extends chai.js with deep equality member checks, optionally also tracking the identity of nested objects.",
   "main": "index.js",
   "scripts": {
