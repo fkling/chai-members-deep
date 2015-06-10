@@ -1,4 +1,4 @@
-## chai-members-deep
+## chai-members-deep [![Build Status](https://travis-ci.org/fkling/chai-members-deep.svg?branch=master)](https://travis-ci.org/fkling/chai-members-deep)
 
 This extends chai.js with deep equality member checks, optionally also tracking
 the identity of nested objects (see [`deep-equal-ident`](https://github.com/fkling/deep-equal-ident))
@@ -26,6 +26,6 @@ assert.includeMembersDeepIdent(a, b);
 Since it uses the chai extension of `deep-equal-ident`, it also includes
 
 ```javascript
-expect(a).to.identically.deep..equal(b);
+expect(a).to.identically.deep.equal(b);
 assert.deepEqualIdent(a, b);
 ```

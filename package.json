@@ -23,7 +23,9 @@
   },
   "homepage": "https://github.com/fkling/chai-members-deep",
   "dependencies": {
-    "deep-equal-ident": "^0.1.0"
+    "chai": "^3.0.0",
+    "deep-equal-ident": "^0.1.0",
+    "jest-cli": "^0.4.10"
   },
   "devDependencies": {
     "chai": "^1.9.1",
