@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/fkling/chai-members-deep",
   "dependencies": {
-    "deep-equal-ident": "^0.1.0"
+    "deep-equal-ident": "^1.1.0"
   },
   "devDependencies": {
     "chai": "^3.0.0",
